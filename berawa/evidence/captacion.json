@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "goien-boutique-hotel-bilbao",
+ "maps": {
+  "fecha": "2026-10-29T03:22:46+01:00",
+  "estado": "LEIDA",
+  "ficha": "Goien Boutique Hotel",
+  "nota": 4.8,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Goien+Boutique+Hotel/@43.2556555,-2.9233416,17z/data=!4m9!3m8!1s0xd4e4f885032a46b:0xf1842426d26f0961!5m2!4m1!1i2!8m2!3d43.2556555!4d-2.9233416!16s%2Fg%2F11l361zts7",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T03:22:46+01:00",
+  "veredicto": "MEJORABLE",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "ABARRAMARTI, S.L.",
+  "cif": "B95962775",
+  "fuente": "https://goienboutiquehotel.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal: Denominación social ABARRAMARTI, S.L. (B95962775), nombre comercial Goien Boutique Hotel; un unico establecimiento alojativo conocido; sin vinculo a cadena en su web"
+ }
+}
