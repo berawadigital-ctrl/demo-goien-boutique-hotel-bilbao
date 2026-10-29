@@ -1,0 +1,65 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-goien-boutique-hotel-bilbao",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T03:09:00+01:00",
+ "updated_at": "2026-10-29T03:11:00+01:00",
+ "business": {
+  "name": "Goien Boutique Hotel",
+  "legal_name": "ABARRAMARTI, S.L.",
+  "registry_ids": [
+   "CIF B95962775",
+   "Numero de Turismo HBI:01326"
+  ],
+  "url": "https://goienboutiquehotel.com/",
+  "domain": "goienboutiquehotel.com",
+  "municipality": "Bilbao",
+  "province": "Bizkaia",
+  "address": "Calle Somera 1 (Goienkale 1) · 48005 Bilbao",
+  "phones": [
+   "944 771 818",
+   "608 249 162"
+  ],
+  "emails": [
+   "info@hotelgoien.com"
+  ],
+  "sector": "hotel boutique en el casco viejo"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/place/Goien+Boutique+Hotel/@43.2556555,-2.9233416,17z/data=!4m9!3m8!1s0xd4e4f885032a46b:0xf1842426d26f0961!5m2!4m1!1i2!8m2!3d43.2556555!4d-2.9233416!16s%2Fg%2F11l361zts7",
+  "date": "2026-10-29T03:05:28+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "info@hotelgoien.com",
+  "note": "La web del negocio reserva con un motor propio; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://goienboutiquehotel.com/",
+  "date": "2026-10-29T03:09:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hotel boutique urbano en casco viejo (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
