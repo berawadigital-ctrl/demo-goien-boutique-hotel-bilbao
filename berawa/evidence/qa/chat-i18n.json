@@ -1,0 +1,445 @@
+{
+ "url": "http://127.0.0.1:34891/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitación Individual (15,00 m², 1 persona), Doble Standard (19,00 m², 2 personas), Doble Superior (21,00 m², 2 personas), Doble Deluxe "
+    },
+    {
+     "q": "¿Hay habitaciones familiares o para grupos?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La Habitación Familiar (29,00 m²) admite hasta 4 personas, con cama de 2,00 × 2,00 m y 2 literas. El Ático (52,00 m²) reúne la Familiar y la"
+    },
+    {
+     "q": "¿Qué servicios tiene el hotel?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tienen wifi gratuito en todo el hotel, consigna, recepción 24 horas, tomas USB en todas las habitaciones y áreas comunes, transfer bajo peti"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El desayuno es buffet y a la carta. Horarios: de lunes a viernes de 7:30 a 11:00 y sábados y domingos de 8:00 a 11:00. El bar abre todos los"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El check-in es a las 15:00 y el check-out a las 12:00. Late check-out hasta las 14:00, sujeto a disponibilidad."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Su web indica que no se admiten mascotas en el hotel y que no está permitido fumar en todo el establecimiento."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "El hotel no dispone de parking propio. Su web recomienda el parking público Arenal, a 5 min en coche y 15 min caminando, y menciona también "
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en la Calle Somera 1 (Goienkale 1), 48005 Bilbao, en el Casco Viejo, junto al Puente de San Antón. Parada de taxi y tranvía a 50 m. El "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web tiene botones de reserva (Reservar alojamiento Bilbao). Aquí puedes escribir a info@hotelgoien.com o llamar al +34 944 771 818. Este "
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Teléfono +34 944 771 818; móvil +34 608 249 162; correo info@hotelgoien.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su aviso legal indica ABARRAMARTI, S.L. (CIF B95962775) con nombre comercial Goien Boutique Hotel. Su web muestra el Número de Turismo HBI:0"
+    },
+    {
+     "q": "¿Qué hay cerca del hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su web indica a 100 m el Mercado de la Ribera, a 400 m la Plaza Nueva, a 500 m el Teatro Arriaga y a 2.1 Km el Museo Guggenheim."
+    },
+    {
+     "q": "¿Hay habitaciones adaptadas?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La Habitación Familiar (29,00 m², hasta 4 personas) está habilitada con un baño para personas con movilidad reducida."
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web tiene botones de reserva (Reservar alojamiento Bilbao). Aquí puedes escribir a info@hotelgoien.com o llamar al +34 944 771 818. Este "
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Hay desayuno?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha habitació Individual (15,00 m², 1 persona), Doble Standard (19,00 m², 2 persones), Doble Superior (21,00 m², 2 persones), Doble Deluxe"
+    },
+    {
+     "q": "Hi ha habitacions familiars o per a grups?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "L'Habitació Familiar (29,00 m²) admet fins a 4 persones, amb llit de 2,00 × 2,00 m i 2 lliteres. L'Àtic (52,00 m²) reuneix la Familiar i la "
+    },
+    {
+     "q": "Quins serveis té l'hotel?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tenen wifi gratuït a tot l'hotel, consigna, recepció 24 hores, endolls USB a totes les habitacions i àrees comunes, transfer sota petició, b"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'esmorzar és buffet i a la carta. Horaris: de dilluns a divendres de 7:30 a 11:00 i dissabtes i diumenges de 8:00 a 11:00. El bar obre cada"
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El check-in és a les 15:00 i el check-out a les 12:00. Late check-out fins a les 14:00, subjecte a disponibilitat."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La seva web indica que no s'admeten mascotes a l'hotel i que no està permès fumar a tot l'establiment."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L'hotel no disposa de pàrquing propi. La seva web recomana el pàrquing públic Arenal, a 5 min en cotxe i 15 min caminant, i esmenta també el"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "És al Carrer Somera 1 (Goienkale 1), 48005 Bilbao, al Casc Vell, al costat del Pont de Sant Antoni. Parada de taxi i tramvia a 50 m. L'aerop"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web té botons de reserva (Reservar alojamiento Bilbao). Aquí pots escriure a info@hotelgoien.com o trucar al +34 944 771 818. Aquest"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Telèfon +34 944 771 818; mòbil +34 608 249 162; correu info@hotelgoien.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "El seu avís legal indica ABARRAMARTI, S.L. (CIF B95962775) amb nom comercial Goien Boutique Hotel. La seva web mostra el Número de Turismo H"
+    },
+    {
+     "q": "Què hi ha a prop de l'hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "La seva web indica a 100 m el Mercado de la Ribera, a 400 m la Plaza Nueva, a 500 m el Teatro Arriaga i a 2.1 Km el Museu Guggenheim."
+    },
+    {
+     "q": "Hi ha habitacions adaptades?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L'Habitació Familiar (29,00 m², fins a 4 persones) està habilitada amb un bany per a persones amb mobilitat reduïda."
+    },
+    {
+     "q": "Quant costa una habitació?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web té botons de reserva (Reservar alojamiento Bilbao). Aquí pots escriure a info@hotelgoien.com o trucar al +34 944 771 818. Aquest"
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Hi ha esmorzar?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What room types are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There is an Individual room (15,00 m², 1 guest), Double Standard (19,00 m², 2 guests), Double Superior (21,00 m², 2 guests), Double Deluxe ("
+    },
+    {
+     "q": "Are there family rooms or rooms for groups?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The Family room (29,00 m²) sleeps up to 4, with a 2,00 × 2,00 m bed and 2 bunk beds. The Penthouse (52,00 m²) combines the Family and the De"
+    },
+    {
+     "q": "What services does the hotel have?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "They have free wifi throughout the hotel, luggage storage, 24-hour reception, USB sockets in all rooms and common areas, transfer on request"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Breakfast is buffet and à la carte. Hours: Monday to Friday 7:30 to 11:00 and Saturday and Sunday 8:00 to 11:00. The bar is open every day f"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Check-in is at 15:00 and check-out at 12:00. Late check-out until 14:00, subject to availability."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Their website says pets are not accepted at the hotel and smoking is not allowed anywhere in the establishment."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "The hotel has no parking of its own. Their website recommends the public Arenal car park, 5 min by car and 15 min on foot, and also mentions"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Calle Somera 1 (Goienkale 1), 48005 Bilbao, in the Old Town, next to the San Antón Bridge. Taxi rank and tram stop 50 m away. Bilba"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Their website has booking buttons (Reservar alojamiento Bilbao). Here you can email info@hotelgoien.com or call +34 944 771 818. This assist"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Phone +34 944 771 818; mobile +34 608 249 162; email info@hotelgoien.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their legal notice names ABARRAMARTI, S.L. (CIF B95962775) with the trade name Goien Boutique Hotel. Their website shows the Tourism Number "
+    },
+    {
+     "q": "What is near the hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Their website lists the Mercado de la Ribera at 100 m, Plaza Nueva at 400 m, the Teatro Arriaga at 500 m and the Guggenheim Museum at 2.1 Km"
+    },
+    {
+     "q": "Are there adapted rooms?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "The Family room (29,00 m², up to 4 guests) has a bathroom adapted for guests with reduced mobility."
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Their website has booking buttons (Reservar alojamiento Bilbao). Here you can email info@hotelgoien.com or call +34 944 771 818. This assist"
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Is there breakfast?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a une chambre Individuelle (15,00 m², 1 personne), Double Standard (19,00 m², 2 personnes), Double Superior (21,00 m², 2 personnes), Do"
+    },
+    {
+     "q": "Y a-t-il des chambres familiales ou pour groupes ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La chambre Familiale (29,00 m²) accueille jusqu'à 4 personnes, avec un lit de 2,00 × 2,00 m et 2 lits superposés. L'Attique (52,00 m²) réuni"
+    },
+    {
+     "q": "Quels services propose l'hôtel ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ils proposent le wifi gratuit dans tout l'hôtel, une bagagerie, une réception 24 h/24, des prises USB dans toutes les chambres et espaces co"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le petit-déjeuner est buffet et à la carte. Horaires : du lundi au vendredi de 7:30 à 11:00 et le samedi et le dimanche de 8:00 à 11:00. Le "
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Le check-in est à 15:00 et le check-out à 12:00. Late check-out jusqu'à 14:00, sous réserve de disponibilité."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Leur site indique que les animaux ne sont pas admis à l'hôtel et qu'il est interdit de fumer dans tout l'établissement."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L'hôtel ne dispose pas de parking propre. Leur site recommande le parking public Arenal, à 5 min en voiture et 15 min à pied, et mentionne a"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il se trouve calle Somera 1 (Goienkale 1), 48005 Bilbao, dans la vieille ville, près du pont de San Antón. Station de taxis et de tramway à "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Leur site a des boutons de réservation (Reservar alojamiento Bilbao). Ici vous pouvez écrire à info@hotelgoien.com ou appeler le +34 944 771"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Téléphone +34 944 771 818 ; mobile +34 608 249 162 ; e-mail info@hotelgoien.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur mention légale indique ABARRAMARTI, S.L. (CIF B95962775) avec le nom commercial Goien Boutique Hotel. Leur site affiche le Número de Tu"
+    },
+    {
+     "q": "Qu'y a-t-il près de l'hôtel ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Leur site indique le Mercado de la Ribera à 100 m, la Plaza Nueva à 400 m, le Teatro Arriaga à 500 m et le musée Guggenheim à 2.1 Km."
+    },
+    {
+     "q": "Y a-t-il des chambres adaptées ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La chambre Familiale (29,00 m², jusqu'à 4 personnes) est équipée d'une salle de bain pour personnes à mobilité réduite."
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 944 771 818 · 608 249 162 · info@hotelgoien.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Leur site a des boutons de réservation (Reservar alojamiento Bilbao). Ici vous pouvez écrire à info@hotelgoien.com ou appeler le +34 944 771"
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

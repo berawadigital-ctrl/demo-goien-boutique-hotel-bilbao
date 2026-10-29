@@ -1,0 +1,43 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://goienboutiquehotel.com/",
+ "read_at": "2026-10-29T03:07:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://goienboutiquehotel.com/",
+   "sha256": "5b5b4367c4bf8afa01e61f43b49be9e684c03de9ea4ade653e7fac654458058c",
+   "chars": 1445
+  },
+  {
+   "url": "https://goienboutiquehotel.com/aviso-legal/",
+   "sha256": "b8cd1586b4d4603d1c1582f545795bb65e369babead23d76e1b90d8005760bd2",
+   "chars": 11582
+  },
+  {
+   "url": "https://goienboutiquehotel.com/contacto/",
+   "sha256": "cde020b9d5b66037b9932a77d88e59f58840985ae38c3896796d1eede65e82a4",
+   "chars": 1609
+  },
+  {
+   "url": "https://goienboutiquehotel.com/entorno/",
+   "sha256": "fede0173c2f8340bd890d040c3b37154ae41ce3694b1c4b85256691858b4a007",
+   "chars": 2935
+  },
+  {
+   "url": "https://goienboutiquehotel.com/habitaciones/",
+   "sha256": "7bfc12a2a8e728406d5890c0359021a5fa13f61c6cc587179ae451f3c0020d51",
+   "chars": 3637
+  },
+  {
+   "url": "https://goienboutiquehotel.com/servicios/",
+   "sha256": "f75b32cbfe05df1c3b12b07ab4fbf835e1b493627ad82ab97fd6fed5cff4de13",
+   "chars": 1572
+  }
+ ],
+ "other_pages_read": [
+  "https://goienboutiquehotel.com",
+  "https://goienboutiquehotel.com/galeria/",
+  "https://goienboutiquehotel.com/ubicacion/"
+ ]
+}
